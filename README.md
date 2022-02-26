@@ -1,2 +1,6 @@
 # BuscadordeCep
-Buscador de Cep React
+Buscador de Cep com React
+
+API com 'Axios' fazendo busca Assíncrona/JSON com VIACEP.
+
+By: Eric Caruso
